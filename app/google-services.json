@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569612985980",
+    "project_id": "imagenview-bb2bc",
+    "storage_bucket": "imagenview-bb2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569612985980:android:99e9fa809f732cfb350bf9",
+        "android_client_info": {
+          "package_name": "com.example.imagenview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569612985980-br5aj707fm43lpjcp28k1mu08dopje24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyjYVaVkF4UDrIUfgdInAKNRtip6gUgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569612985980-br5aj707fm43lpjcp28k1mu08dopje24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
